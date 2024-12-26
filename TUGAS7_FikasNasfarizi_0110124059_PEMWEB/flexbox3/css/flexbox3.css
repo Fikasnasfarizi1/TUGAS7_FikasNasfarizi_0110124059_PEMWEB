@@ -1,0 +1,23 @@
+.container{
+    width: 90px;
+    margin: auto;
+.kotak1, .kotak2{
+    display: flex;
+    margin: auto;
+}
+}
+.box{
+    width: 300px;
+    height: 20px;
+    background-color:green;
+    border: 5px solid black;
+    padding: 5px;
+}
+.kotak1{
+    justify-content: center;
+    width: 500px;
+}
+.kotak2{
+    justify-content: center;
+    width: 500px;
+}
